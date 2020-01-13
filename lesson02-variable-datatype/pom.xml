@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>j4t</groupId>
-  <artifactId>lesson02-variables-datatype</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <artifactId>jjjj</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>lesson02-variables-datatype</name>
+  <name>jjjj</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -20,6 +20,11 @@
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
       <scope>test</scope>
+    </dependency>
+    <dependency>
+    <groupId>j4t</groupId>
+  <artifactId>lesson01-setup-environment</artifactId>
+  <version>1.0-SNAPSHOT</version>
     </dependency>
   </dependencies>
 </project>
